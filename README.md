@@ -1,2 +1,1 @@
-# Blended---JS
-Tasks For Training (JS)
+# goit-js-hw-03
