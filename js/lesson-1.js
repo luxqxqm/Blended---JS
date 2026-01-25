@@ -185,7 +185,6 @@
         
 //     }
 
-//     console.log("----------")
 //     console.log(suma)
     
 // }
